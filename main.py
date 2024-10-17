@@ -1,6 +1,8 @@
 import Rekinis as rek
 import datetime
 
+print("Sveicieni, šī programma palīdzēs noteikt lādītes cenu.")
+
 dt_now = datetime.datetime.now()
 
 vards = input("Uzraksti vārdu: ")

@@ -18,5 +18,5 @@ class Rekinis:
         produkta_cena = self.izmeri / 3 * self.cena
         pvn_summa = (darba_samaksa + self.cena) * 21/100
         rekina_summa = (self.darba_samaksa + self.produkta_cena) + self.PVN_summa
-    
+
     def saglabat(self):
